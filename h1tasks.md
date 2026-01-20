@@ -27,6 +27,14 @@ iii) Data flow diagrams are simple to draw and help us understanding "what are w
 
 iv) Tracking is important as each threat could be countered by the answers of the question "What are we gonna do about it". Risk management is utilized for analysing subset of threats and helping us to decide what are we going to do about those. Last question "did we do a good job", is there so we know that work was actually done and it was worth our time. 
 
-4) OWASP CheatSheets Series Team 2021
+3) OWASP CheatSheets Series Team 2021
 
-i) 
+i) Threat modeling is strcutured, and it focuses on analsying how might a system be attacked. It should be done early in the SDLC and as a normal step in the process. 
+
+ii) Advantages of threat modeling are Identify risks early, increase security and have a better understanding of the system. 
+
+iii) Each of the four questions should be answered and looked in depth by using tools. Stride can be used to identify the threat, "what can go wrong". Response and migitation is the section to think and decide what to do about each threat. Last but not least Review and Validation where we check if the work is good enough. 
+
+iv) Cloud systems might introduce new challenges. Clooud frameworks for example, "AWS’s Well-Architected Framework – Security Pillar " might help. 
+
+Idea: Threat modeling could be used like a checklist that is revisited at every design change in a system.
