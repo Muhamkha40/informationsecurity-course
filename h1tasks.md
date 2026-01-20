@@ -38,3 +38,12 @@ iii) Each of the four questions should be answered and looked in depth by using 
 iv) Cloud systems might introduce new challenges. Clooud frameworks for example, "AWS’s Well-Architected Framework – Security Pillar " might help. 
 
 Idea: Threat modeling could be used like a checklist that is revisited at every design change in a system.
+
+# Infosec Scene (Epi 151 Chris Rock)
+- This episode is about an Australian hacker who was into Black and white hat hacking since childhood.
+- Chris believes that morally there is no difference between Black and White hat hacking because at the end of day its hacking which is a skill. He also says that he has particpated in big criminal offences like robbing banks, and transferring moeny and he has never been caught nd arrested.
+- Chris also mentions that hackers get caught because of mistakes and not because it is hard, he says its easy onece you have the experience.
+- He describes one operation against a CEO Bob where he had steps what is he gonna do, where first he was gonna go after his family then his laywers and legal matters as he uses a bottom-up approach.
+- The guy also mentions about flaws in systems so technically Attackers could, declare people dead and create fake identities.
+- Chris tells many things that hackers could do and governments didn't do anything against them. 
+- Jack at the end also mentions a youtube channel that has mind blowing talks "Chris Rock Defcon". 
