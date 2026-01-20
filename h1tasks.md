@@ -14,18 +14,18 @@ iii) Idea: New people to threat modeling could learnt he system faster if they r
 
 2) Shostack 2022
 
-i) This is a threat modeling course by Adam Shoestack who has written a very famous book on threat modeling. According to him threat modeling should be done early on to anticipate problems like before any code has been written or chips being procured. 
-
-ii) Threat modeling is a package of methods that will help us to think about security beforehand. There are four questions and if we focus on these we are threat modeling
+i) This is a threat modeling course by Adam Shoestack who has written a very famous book on threat modeling. According to him threat modeling should be done early on to anticipate problems like before any code has been written or chips being procured. Threat modeling is a package of methods that will help us to think about security beforehand. There are four questions and if we focus on these we are threat modeling
  
 - What are we working on?
 - What can go or what could possibly go wrong?
 - What are we gonna do about it?
 - Did we did a good job?
 
-iii) Sketching on the other hand is the beginning part of answering the questions what are we working on as we put thoughts out of our heads and discuss it with others. Using a drawing a tool might be beneficial. This all helps to answer "what could possibly go wrong?" 
+ii) Sketching on the other hand is the beginning part of answering the questions what are we working on as we put thoughts out of our heads and discuss it with others. Using a drawing a tool might be beneficial. This all helps to answer "what could possibly go wrong?" 
 
-iv) Data flow diagrams are simple to draw and help us understanding "what are we working on?". 
+iii) Data flow diagrams are simple to draw and help us understanding "what are we working on?". Answer the questions the heart of threat modeling "What could go wrong" if one takes guidance using Stride it might be easier. Structure is important for consistency and for that we use STRIDE to answer what could go wrong. 
+
+iv) Tracking is important as each threat could be countered by the answers of the question "What are we gonna do about it". Risk management is utilized for analysing subset of threats and helping us to decide what are we going to do about those. Last question "did we do a good job", is there so we know that work was actually done and it was worth our time. 
 
 4) OWASP CheatSheets Series Team 2021
 
