@@ -47,3 +47,8 @@ Idea: Threat modeling could be used like a checklist that is revisited at every 
 - The guy also mentions about flaws in systems so technically Attackers could, declare people dead and create fake identities.
 - Chris tells many things that hackers could do and governments didn't do anything against them. 
 - Jack at the end also mentions a youtube channel that has mind blowing talks "Chris Rock Defcon". 
+
+# a) Security hygiene
+There are somethings that a normal person could do to stay safe. Starting by using strong and unique passwords. Secondly, enable multi-factor authentication this system will make sure multiple times that it is the owner who is trying to login. Other than this devices might be locked using fingerptints. For companies employees could keep a log and monitor if there is some weird activity. Should'nt download stuff from unknown sources. People working could avoid typing their passwords when more people are around. 
+
+# b) Make-belief boogie-man 
