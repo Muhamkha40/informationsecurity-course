@@ -31,3 +31,7 @@ Sub technique have more narrow down description. Example includes adversary putt
 this is a specific implementation of how an adversary executed a technique or sub-technique and these are categorized in ATT&CK. Example is
 An adversary sending a phishing email to a target company containing a hidden link to a site that automatically downloads a ZIP file. 
 
+# Sources
+- https://lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Intel-Driven-Defense.pdf 
+- https://attack.mitre.org/resources/faq/#general-faq
+  
